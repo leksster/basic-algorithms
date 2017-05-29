@@ -1,4 +1,4 @@
-### Algorithms
+### Basic Algorithms
 
 - [x] Binary Search
 - [ ] Asymptotic notation
