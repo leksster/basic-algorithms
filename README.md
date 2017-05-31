@@ -1,7 +1,6 @@
 ### Basic Algorithms
 
 - [x] Binary Search
-- [ ] Asymptotic notation
-- [ ] Selection sort
+- [x] Selection sort
 - [ ] Insertion sort
 - [ ] Recursive algorithms
