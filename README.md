@@ -2,5 +2,5 @@
 
 - [x] Binary Search
 - [x] Selection sort
-- [ ] Insertion sort
-- [ ] Recursive algorithms
+- [x] Insertion sort
+- [x] Merge sort (recursion)
