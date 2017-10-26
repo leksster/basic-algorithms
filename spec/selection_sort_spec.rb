@@ -1,6 +1,3 @@
-# frozen_string_literal: true
-
-# SelectionSort tests
 require 'selection_sort'
 
 describe SelectionSort do

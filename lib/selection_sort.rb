@@ -1,5 +1,3 @@
-# frozen_string_literal: true
-
 # Selection Sort
 # The algorithm proceeds by finding the smallest
 # (or largest, depending on sorting order) element

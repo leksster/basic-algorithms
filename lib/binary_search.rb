@@ -1,5 +1,3 @@
-# frozen_string_literal: true
-
 # Binary Search ruby implementation
 # search algorithm that finds the position
 # of a target value within a sorted array
